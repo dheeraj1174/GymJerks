@@ -45,6 +45,23 @@ app.use('/api/upload', require('./routes/uploadRoutes'));
 // Health check
 app.get('/health', (req, res) => res.json({ status: 'ok' }));
 
+// One-time seed endpoint (only seeds if DB is empty)
+app.get('/api/seed', async (req, res) => {
+    try {
+        const Product = require('./models/Product');
+        const Coupon = require('./models/Coupon');
+        const existingProducts = await Product.countDocuments();
+        if (existingProducts > 0) return res.json({ message: 'Database already seeded', products: existingProducts });
+
+        const seederData = require('./seeder-data');
+        await Product.insertMany(seederData.products);
+        await Coupon.insertMany(seederData.coupons);
+        res.json({ message: 'Database seeded!', products: seederData.products.length, coupons: seederData.coupons.length });
+    } catch (err) {
+        res.status(500).json({ message: err.message });
+    }
+});
+
 // --- Serve React frontend in production ---
 if (process.env.NODE_ENV === 'production') {
     app.use(express.static(path.join(__dirname, '../client/dist')));

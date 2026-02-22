@@ -1,0 +1,256 @@
+[
+  {
+    "_id": "699a9054bf5ea1decb6e2f75",
+    "name": "Beast Mode Tee",
+    "slug": "beast-mode-tee",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&q=80",
+    "category": "T-Shirts",
+    "description": "The ultimate gym tee. Sweat-wicking performance cotton blend with bold graphic print. Engineered for maximum breathability during your heaviest lifts.",
+    "price": 899,
+    "originalPrice": 1299,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Olive"
+    ]
+  },
+  {
+    "_id": "699a9054bf5ea1decb6e2f76",
+    "name": "Oversized Pump Cover",
+    "slug": "oversized-pump-cover",
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&q=80",
+    "category": "T-Shirts",
+    "description": "Hide the gains until the pump is real. Heavyweight oversized fabric with dropped shoulders for the perfect gym silhouette.",
+    "price": 1299,
+    "originalPrice": 1799,
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Black",
+      "Charcoal",
+      "Navy"
+    ]
+  },
+  {
+    "_id": "699a9054bf5ea1decb6e2f77",
+    "name": "Iron Will Muscle Tee",
+    "slug": "iron-will-muscle-tee",
+    "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800&q=80",
+    "category": "Tanks",
+    "description": "Cut sleeves for maximum range of motion. Show off the arms you earned through dedication and hard work.",
+    "price": 799,
+    "originalPrice": 999,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Red"
+    ]
+  },
+  {
+    "_id": "699a9054bf5ea1decb6e2f78",
+    "name": "Legacy Hoodie",
+    "slug": "legacy-hoodie",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800&q=80",
+    "category": "Hoodies",
+    "description": "Premium fleece hoodie for those cold morning sessions. Warm up in style with our signature athletic fit.",
+    "price": 2499,
+    "originalPrice": 3499,
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Black",
+      "Grey",
+      "Olive"
+    ]
+  },
+  {
+    "_id": "699a9054bf5ea1decb6e2f79",
+    "name": "Deadlift Dropout Tee",
+    "slug": "deadlift-dropout-tee",
+    "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800&q=80",
+    "category": "T-Shirts",
+    "description": "Dropped hem design meets premium anti-odor fabric. Built for deadlift day and everything after.",
+    "price": 999,
+    "originalPrice": 1499,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Black",
+      "Burgundy",
+      "Forest"
+    ]
+  },
+  {
+    "_id": "699a9054bf5ea1decb6e2f7a",
+    "name": "Pro Compression Shorts",
+    "slug": "pro-compression-shorts",
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800&q=80",
+    "category": "Bottoms",
+    "description": "Support where you need it. Sweat-wicking 4-way stretch technology with secure phone pocket.",
+    "price": 899,
+    "originalPrice": 1199,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Grey"
+    ]
+  },
+  {
+    "_id": "699a9054bf5ea1decb6e2f7b",
+    "name": "Essential Joggers",
+    "slug": "essential-joggers",
+    "image": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?w=800&q=80",
+    "category": "Bottoms",
+    "description": "Tapered fit joggers. Perfect for leg day or rest day. Premium fleece with zippered pockets.",
+    "price": 1499,
+    "originalPrice": 1999,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Grey",
+      "Navy"
+    ]
+  },
+  {
+    "_id": "699a9054bf5ea1decb6e2f7c",
+    "name": "Raw Power Stringer",
+    "slug": "raw-power-stringer",
+    "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800&q=80",
+    "category": "Tanks",
+    "description": "Ultra-deep cuts for full lat exposure. Lightweight mesh construction for maximum airflow.",
+    "price": 699,
+    "originalPrice": 899,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Neon Green"
+    ]
+  },
+  {
+    "_id": "699a9054bf5ea1decb6e2f7d",
+    "name": "Grind Season Tee",
+    "slug": "grind-season-tee",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&q=80",
+    "category": "T-Shirts",
+    "description": "No shortcuts. Premium ring-spun cotton with motivational back print. For those who live the grind.",
+    "price": 999,
+    "originalPrice": 1299,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ]
+  },
+  {
+    "_id": "699a9054bf5ea1decb6e2f7e",
+    "name": "Alpha Zip Hoodie",
+    "slug": "alpha-zip-hoodie",
+    "image": "https://images.unsplash.com/photo-1578768079052-aa76e52ff62e?w=800&q=80",
+    "category": "Hoodies",
+    "description": "Full-zip athletic hoodie with thumb holes. Slim fit design for a modern look in and out of the gym.",
+    "price": 2799,
+    "originalPrice": 3999,
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Black",
+      "Charcoal"
+    ]
+  },
+  {
+    "_id": "699a9054bf5ea1decb6e2f7f",
+    "name": "Rep Counter Tank",
+    "slug": "rep-counter-tank",
+    "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800&q=80",
+    "category": "Tanks",
+    "description": "Lightweight tank top with moisture-wicking tech. Numbers on the back because every rep counts.",
+    "price": 649,
+    "originalPrice": 899,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Red",
+      "Navy"
+    ]
+  },
+  {
+    "_id": "699a9054bf5ea1decb6e2f80",
+    "name": "No Limits Performance Tee",
+    "slug": "no-limits-performance-tee",
+    "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800&q=80",
+    "category": "T-Shirts",
+    "description": "Compression-fit performance tee with anti-odor technology. Stays fresh set after set.",
+    "price": 1099,
+    "originalPrice": 1599,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Black",
+      "Blue",
+      "Grey"
+    ]
+  }
+]

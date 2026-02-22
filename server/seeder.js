@@ -251,6 +251,15 @@ const products = [
 
 const sampleCoupons = [
     {
+        code: 'GET10',
+        discountPercent: 10,
+        maxDiscount: 500,
+        minOrderAmount: 0,
+        expiresAt: new Date('2027-12-31'),
+        isActive: true,
+        usageLimit: 0,
+    },
+    {
         code: 'GYMJERK20',
         discountPercent: 20,
         maxDiscount: 500,
