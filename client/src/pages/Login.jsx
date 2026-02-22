@@ -16,9 +16,9 @@ const Login = () => {
         e.preventDefault();
         setLoading(true);
         setError('');
-        const result = await login(form.email, form.password);
+        const result = await login({ email: form.email, password: form.password });
         setLoading(false);
-        if (result.success) navigate('/'); else setError(result.message);
+        if (result.success) navigate('/'); else setError(result.error);
     };
 
     return (

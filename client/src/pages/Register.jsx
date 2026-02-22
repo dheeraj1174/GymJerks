@@ -16,9 +16,9 @@ const Register = () => {
         e.preventDefault();
         setLoading(true);
         setError('');
-        const result = await register(form.name, form.email, form.password);
+        const result = await register({ name: form.name, email: form.email, password: form.password });
         setLoading(false);
-        if (result.success) navigate('/'); else setError(result.message);
+        if (result.success) navigate('/'); else setError(result.error);
     };
 
     return (
